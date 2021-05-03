@@ -10,7 +10,12 @@
 </head>
 
 <body>
-    <!-- ici pensez à faire une landing page -->
+    <h1>Bonjour tout le monde !</h1>
+
+    <blockquote>Ne nous prennons pas au sérieux il n'y aura aucun survivants !</blockquote>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed, dolorem!</p>
+    <h2>image</h2>
+    <img src="img/22_03.png" alt="n'oubliez pas le alt svp">
 </body>
 
 </html>
